@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266299574305",
+    "project_id": "fir-database-4fd34",
+    "storage_bucket": "fir-database-4fd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266299574305:android:11f8e8edf8b1bcf6f8bb60",
+        "android_client_info": {
+          "package_name": "com.loki.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266299574305-v75ffdfjsfck3o402j4rpm99ghjg5qo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9RmXk8RCzpz04sF745MQq1XPEJ3tq3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266299574305-v75ffdfjsfck3o402j4rpm99ghjg5qo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
